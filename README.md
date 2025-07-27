@@ -51,9 +51,6 @@ Power BI Reporting • Data Cleaning • Data Modeling • DAX • Forecasting �
 
 ---
 
-📄 **Project Report**:
-The `.pbix` file contains the complete dashboard. You can explore visuals and filters interactively.
-
-📎 *(Optional: Add Screenshot Preview if available)*  
-`![Dashboard Preview](images/sales_dashboard.png)`
-
+📄 **Project Report**:  
+You can view or download the complete Power BI report from the link below:  
+👉 [Download PBIX Report](Sales_Dashboard_Report.pbix)
