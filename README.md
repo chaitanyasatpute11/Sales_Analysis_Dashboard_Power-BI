@@ -53,8 +53,10 @@ Power BI Reporting • Data Cleaning • Data Modeling • DAX • Forecasting �
 
 ## 📁 Project Files
 
-- 📄 **Preview Report (PDF)** – View the dashboard layout and visuals:  
-  👉 [View PDF Report](https://github.com/chaitanyasatpute11/Sales_Analysis_Dashboard_Power-BI/raw/main/Sales_Dashboard_Report.pdf)
+- 📄 **View PDF Report**  
+  Preview the Power BI dashboard layout in PDF format:  
+  👉 [Click here to view or download PDF](https://github.com/chaitanyasatpute11/Sales_Analysis_Dashboard_Power-BI/raw/main/Sales_Dashboard_Report.pdf)
 
-- 🧩 **Power BI File (PBIX)** – Download the full interactive dashboard file:  
-  👉 [Download PBIX File](https://github.com/chaitanyasatpute11/Sales_Analysis_Dashboard_Power-BI/raw/main/Sales_Dashboard_Report.pbix)
+- 🧩 **Download Power BI Project (.pbix)**  
+  Access the full interactive Power BI file:  
+  👉 [Click here to download PBIX file](https://github.com/chaitanyasatpute11/Sales_Analysis_Dashboard_Power-BI/raw/main/Sales_Dashboard_Report.pbix)
